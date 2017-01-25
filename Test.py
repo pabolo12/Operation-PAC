@@ -4,7 +4,7 @@ import time
 def BoredGame():
     print ("Made by Mark McCormick")
     names =  []
-    name_1 = input ("Player 1 name: ")
+    name_1 = input ("Please sir can i have some more: ")
     name_2 = input ("Player 2 name: ")
     names.append(name_1)
     names.append(name_2)
